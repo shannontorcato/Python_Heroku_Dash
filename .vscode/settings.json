@@ -2,4 +2,7 @@
     "python.pythonPath": "C:\\Users\\your_name\\.virtualenvs\\Python_Heroku_Dash-VLkqYH-d\\Scripts\\python.exe"
 }
 
-# Created A Virtual Environment Using pipenv. Since it integrates both vitualenvs and pip, it is easier to use
+# Created A Virtual Environment Using pipenv. Since it integrates both vitualenvs and pip, it is easier to use.
+# If you use VS Code check the link below. It shows you how to acivate the virtual environment.
+# https://code.visualstudio.com/docs/python/environments
+# This is just an example file, so you may delete this.
