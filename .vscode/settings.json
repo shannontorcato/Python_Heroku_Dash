@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Shannon\\.virtualenvs\\Python_Heroku_Dash-VLkqYH-d\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\your_name\\.virtualenvs\\Python_Heroku_Dash-VLkqYH-d\\Scripts\\python.exe"
 }
+
+# Created A Virtual Environment Using pipenv. Since it integrates both vitualenvs and pip, it is easier to use
